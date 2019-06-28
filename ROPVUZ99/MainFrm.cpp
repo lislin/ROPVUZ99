@@ -5,6 +5,7 @@
 #include "stdafx.h"
 #include "ROPVUZ99.h"
 #include "MainFrm.h"
+//
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
