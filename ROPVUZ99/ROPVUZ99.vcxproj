@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E90F3EBE-67A1-47B9-8E64-9563B19EB33E}</ProjectGuid>
+    <ProjectGuid>{6D2A2FDC-4437-46C0-97D3-DC08FC429E75}</ProjectGuid>
     <RootNamespace>ROPVUZ99</RootNamespace>
     <Keyword>MFCProj</Keyword>
   </PropertyGroup>

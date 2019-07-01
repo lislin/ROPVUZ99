@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ROPVUZ99", "ROPVUZ99\ROPVUZ99.vcxproj", "{E90F3EBE-67A1-47B9-8E64-9563B19EB33E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ROPVUZ99", "ROPVUZ99\ROPVUZ99.vcxproj", "{6D2A2FDC-4437-46C0-97D3-DC08FC429E75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E90F3EBE-67A1-47B9-8E64-9563B19EB33E}.Debug|Win32.ActiveCfg = Debug|Win32
-		{E90F3EBE-67A1-47B9-8E64-9563B19EB33E}.Debug|Win32.Build.0 = Debug|Win32
-		{E90F3EBE-67A1-47B9-8E64-9563B19EB33E}.Release|Win32.ActiveCfg = Release|Win32
-		{E90F3EBE-67A1-47B9-8E64-9563B19EB33E}.Release|Win32.Build.0 = Release|Win32
+		{6D2A2FDC-4437-46C0-97D3-DC08FC429E75}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D2A2FDC-4437-46C0-97D3-DC08FC429E75}.Debug|Win32.Build.0 = Debug|Win32
+		{6D2A2FDC-4437-46C0-97D3-DC08FC429E75}.Release|Win32.ActiveCfg = Release|Win32
+		{6D2A2FDC-4437-46C0-97D3-DC08FC429E75}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
