@@ -26,6 +26,7 @@ public:
 	virtual int ExitInstance();
 
 // й╣ож
+	UINT  m_nAppLook;
 	BOOL  m_bHiColorIcons;
 
 	virtual void PreLoadState();
