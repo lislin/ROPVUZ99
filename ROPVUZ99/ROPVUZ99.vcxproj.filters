@@ -108,9 +108,6 @@
     <ClInclude Include="MainFrm.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="ChildFrm.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="ROPVUZ99Doc.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -144,9 +141,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="MainFrm.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ChildFrm.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ROPVUZ99Doc.cpp">

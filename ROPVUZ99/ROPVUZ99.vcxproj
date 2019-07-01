@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6D2A2FDC-4437-46C0-97D3-DC08FC429E75}</ProjectGuid>
+    <ProjectGuid>{4CDF4C83-7F3D-4F40-A039-2F30358BD655}</ProjectGuid>
     <RootNamespace>ROPVUZ99</RootNamespace>
     <Keyword>MFCProj</Keyword>
   </PropertyGroup>
@@ -123,7 +123,6 @@
     <None Include="UserImages.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ChildFrm.h" />
     <ClInclude Include="ClassView.h" />
     <ClInclude Include="FileView.h" />
     <ClInclude Include="MainFrm.h" />
@@ -138,7 +137,6 @@
     <ClInclude Include="ViewTree.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ChildFrm.cpp" />
     <ClCompile Include="ClassView.cpp" />
     <ClCompile Include="FileView.cpp" />
     <ClCompile Include="MainFrm.cpp" />

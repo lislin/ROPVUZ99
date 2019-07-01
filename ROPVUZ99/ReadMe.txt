@@ -36,14 +36,7 @@ res\ROPVUZ99.rc2
 
 MainFrm.h, MainFrm.cpp
 这些文件包含框架类 CMainFrame，该类派生自
-CMDIFrameWnd 并控制所有 MDI 框架功能。
-
-/////////////////////////////////////////////////////////////////////////////
-
-对于子框架窗口:
-
-ChildFrm.h，ChildFrm.cpp
-这些文件定义并实现 CChildFrame 类，该类支持 MDI 应用程序中的子窗口。
+CFrameWnd 并控制所有 SDI 框架功能。
 
 /////////////////////////////////////////////////////////////////////////////
 
@@ -56,8 +49,6 @@ ROPVUZ99View.h，ROPVUZ99View.cpp - 文档的视图
 这些文件包含 CROPVUZ99View 类。
 CROPVUZ99View 对象用于查看 CROPVUZ99Doc 对象。
 
-res\ROPVUZ99Doc.ico
-这是图标文件，它用作 CROPVUZ99Doc 类的 MDI 子窗口的图标。此图标包括在主要资源文件 ROPVUZ99.rc 中。
 
 
 
